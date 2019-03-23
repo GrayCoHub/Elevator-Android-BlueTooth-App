@@ -1,0 +1,21 @@
+Parts List
+
+
+Android Phone
+Arduino Uno 
+HC-05 BlueTooth Module
+NEMA 17 Stepper Motor (4) wire
+5 Volt AC/DC transformer w/ barrel connector (Arduino Power Source)
+6 Volt battery with disconnect switch (Stepper Motor Power Source)
+
+
+Elevator Parts List
+
+18" x 5" x 5" wooden hoistway ( 3 walls only)
+5" x 4" x 4" wooden elevator car (3 walls only)
+
+1/2" x 2" aluminum bar (drilled to same dimension as motor shaft. Tapped set-screw used to connect bar to 					shaft, glue could substitute the set-screw.)
+ 
+
+
+The only items that were needed to be purchased for this project were the HC-05 module and the 6 Volt battery.  Therefore, actual project cost ... about $15.00
