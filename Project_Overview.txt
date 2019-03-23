@@ -1,13 +1,12 @@
-This project uses a home-made elevator - hoistway about 18" tall and cab about 5" tall.
+This project uses the included Android phone app to connect Bluetooth to Arduino Uno microprocessor.  Arduino uses simple sketch to controll a stepper motor.  Stepper motor moves elevator model car up and down model elevator hoistway. 
 
-Uses an Arduino Uno microprocessor with the Blue Tooth HC-05 module.
+Includes LED lite on/off buttons.
 
-Uses an Android App to move elevator up / down and stop at various levels w/in the hoistway.
+The first-time the Android pairs with the the HC-05 module, the HC-05 requires a password;(1 2 3 4). After the initial pairing, password in not required again.
 
-The Android App connects the Android phone's Blue Tooth to Uno's blue-tooth module.  The App displays a BT Connect button on App's displaying anelevator panel w/ floor buttons, up/down/stop buttons, and 
-LED lite on/off buttons.
+The Android app displays an elevator panel with various elevator controll buttons.  The 4 floor buttons are marked 1 - 4.  The floor buttons function as expected moving the cab up and stopping at each floor.  But the coding was not finished, so these floor buttons do not function to move the elevator cab down.  Instead, the Down button is used to move the elevator cab down. 
 
-The first-time the Android pairs with the the HC-05 module, the HC-05 requires a password;   1 2 3 4 , after the initial pairing, password in not required.
+It would be great if somebody finishes coding these Floor buttons so they will move the cab downward.
 
-Parts list and Fritzing document in repo's READ.txt file.
+Enjoy.
 
