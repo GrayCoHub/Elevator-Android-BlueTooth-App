@@ -1,0 +1,13 @@
+This project uses a home-made elevator - hoistway about 18" tall and cab about 5" tall.
+
+Uses an Arduino Uno microprocessor with the Blue Tooth HC-05 module.
+
+Uses an Android App to move elevator up / down and stop at various levels w/in the hoistway.
+
+The Android App connects the Android phone's Blue Tooth to Uno's blue-tooth module.  The App displays a BT Connect button on App's displaying anelevator panel w/ floor buttons, up/down/stop buttons, and 
+LED lite on/off buttons.
+
+The first-time the Android pairs with the the HC-05 module, the HC-05 requires a password;   1 2 3 4 , after the initial pairing, password in not required.
+
+Parts list and Fritzing document in repo's READ.txt file.
+
