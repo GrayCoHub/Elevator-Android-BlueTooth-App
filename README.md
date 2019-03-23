@@ -1,6 +1,6 @@
 # Elevator-Android-BlueTooth-App
 
-Android App using BT to operate a model elevator.   Use usb to install App onto phone.   Install Arduino sketch for Arduino Uno.
+Android App using BT to operate a model elevator.   Use usb and install App onto phone.   Upload Arduino sketch for Arduino Uno.
 Use the Fritzing layout for pin-outs and connections.  
 
 I centered the shaft of the stepper motor onto the half-top of the 3-sided hoistway, with the cable from stepper motor connecting 
